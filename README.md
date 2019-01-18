@@ -11,4 +11,4 @@
 6. Repite un issue por cada compañero de la clase.
 Documenta la práctica en el propio readme del repositorio HolaMundo
 
-Enlace a mi hosting: A [link](http://example.com "Title"). https://josedavm.github.io/HolaMundoJoseDavidVillegasMendoza/
+Enlace a mi [mi hosting](https://josedavm.github.io/HolaMundoJoseDavidVillegasMendoza/ "Hosting josedavm").
